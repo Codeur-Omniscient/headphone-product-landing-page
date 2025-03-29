@@ -26,6 +26,7 @@ cd headphone-product-landing-page
 
 - Sticky Navigation bar
 - Link smooth animation
+- 3D animation
 
 ## Deploy
 
