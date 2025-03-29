@@ -26,3 +26,11 @@ cd headphone-product-landing-page
 
 - Sticky Navigation bar
 - Link smooth animation
+
+## Deploy
+
+This site is deployed on [Netlify](Netlify.com). You can preview by clicked [Here](https://headphone-product-codeur-omniscient.netlify.app/).
+
+Don't forget to leave a star⭐ in the project if you like it😊
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c75f7108-12c1-4e88-9fa0-cabe9f0bb7c4/deploy-status)](https://app.netlify.com/sites/headphone-product-codeur-omniscient/deploys)
